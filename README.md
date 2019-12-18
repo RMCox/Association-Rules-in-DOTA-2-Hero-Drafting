@@ -21,6 +21,7 @@ Many assocation rules were found, and, using Gephi, hero associations could be v
 The results were that many known 2 and 3 hero synergies were confirmed by association rules, and many without a known explanation could be investigated. A statistician working on the game could seek to understand strong association rules in the context of the game, to better understand players, implement balance changes and so on.
 
 Note on Code
+Contains an R markdown HTML file, and is best downloaded as a zip
 Full code and files may be uploaded in future
 
 References and Accreditation
