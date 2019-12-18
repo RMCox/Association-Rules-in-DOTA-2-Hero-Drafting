@@ -1,5 +1,4 @@
-# Project-Portfolio
-Portfolio of Data Science Projects
+# Association Rules in DOTA 2 Hero Drafting
 
 Project Objective
 This short project seeks to use Apriori Item Basket Analysis to find perceived hero association rules in DOTA 2 Drafting
